@@ -1,0 +1,71 @@
+body{
+    background-color:navy;
+}
+.portfolio{
+    background-color: blanchedalmond;
+    width:1200px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.header{
+    width: 1500px;
+    margin-left: 250px;
+     display: flex;
+}
+.ppp{
+    width: 200px;
+    padding-top: 10px;
+    padding-left: 9px;
+   font-size:19px;
+}
+.navbar{
+    margin-left: 250px;
+    width: 500px;
+    padding-top: 46px;
+   font-size:19px;
+    display: flex;
+    justify-content: space-around;
+}
+.box{
+    margin-left: 300px;
+    margin-top:50px;
+    padding-top: 20px;
+    width: 1000px;
+    height: 400px;
+    display:flex;
+    justify-content:space-between ;
+}
+.btn{
+    width: 130px;
+    height:35px;
+    color:white;
+    font-size: medium;
+    background-color: blue;
+    border-radius: 5px;
+}
+.name{
+    color: navy;
+}
+h4{
+    font-size :25px;
+}
+img{
+width: 250px;
+    border-radius:10px ;
+}
+.border{
+    width: 1300px;
+    height: 0.5px;
+    background-color: black;
+    margin-left: 0px;
+}
+.square{
+  padding-bottom: 20px;
+   width: 500px;
+}
+.Btn{
+    background-color:blanchedalmond;
+    border: none;
+    font-size: 17px;
+    margin-bottom: 15px;
+    }
